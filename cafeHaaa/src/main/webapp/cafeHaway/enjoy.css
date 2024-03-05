@@ -1,0 +1,42 @@
+@charset "UTF-8";
+
+.shadow1{
+	color:yellow;
+	text-shadow: 1px 1px;
+}
+
+h1{	 
+	color:gray; 
+}
+ .enjoy_div{ 
+	
+	backdround-image:'webapp/imgs/cafeha3333.jpg';
+	background-img:url("../imgs/cafeha3333.jpg");
+	background-size : cover;
+	 opacity: 1;
+	
+}
+.enjoy_div .inner {
+   position: absolute;
+   width: 84%;
+   top: 44.5%;
+   left: 8%;
+   height: 38%;
+  
+    
+
+}
+.enjoy_div .inner .video{
+   position: absolute;
+   top: 0;
+   left: 0;
+   width: 100%;
+   height: 100%;
+   outline: 5px solid red;
+    
+}
+
+#backimg{
+	
+}
+ 
